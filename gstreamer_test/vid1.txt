@@ -1,0 +1,36 @@
+P: /devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.4/1-1.4:1.0/video4linux/video1
+N: video1
+L: 0
+S: v4l/by-id/usb-USB_Camera_USB_Camera_SN0001-video-index1
+S: v4l/by-path/platform-fd500000.pcie-pci-0000:01:00.0-usb-0:1.4:1.0-video-index1
+E: DEVPATH=/devices/platform/scb/fd500000.pcie/pci0000:00/0000:00:00.0/0000:01:00.0/usb1/1-1/1-1.4/1-1.4:1.0/video4linux/video1
+E: DEVNAME=/dev/video1
+E: MAJOR=81
+E: MINOR=8
+E: SUBSYSTEM=video4linux
+E: USEC_INITIALIZED=519208419
+E: ID_V4L_VERSION=2
+E: ID_V4L_PRODUCT=USB Camera: USB Camera
+E: ID_V4L_CAPABILITIES=:capture:
+E: ID_VENDOR=USB_Camera
+E: ID_VENDOR_ENC=USB\x20Camera
+E: ID_VENDOR_ID=0c45
+E: ID_MODEL=USB_Camera
+E: ID_MODEL_ENC=USB\x20Camera
+E: ID_MODEL_ID=6366
+E: ID_REVISION=0100
+E: ID_SERIAL=USB_Camera_USB_Camera_SN0001
+E: ID_SERIAL_SHORT=SN0001
+E: ID_TYPE=video
+E: ID_BUS=usb
+E: ID_USB_INTERFACES=:0e0100:0e0200:010100:010200:
+E: ID_USB_INTERFACE_NUM=00
+E: ID_USB_DRIVER=uvcvideo
+E: ID_PATH=platform-fd500000.pcie-pci-0000:01:00.0-usb-0:1.4:1.0
+E: ID_PATH_TAG=platform-fd500000_pcie-pci-0000_01_00_0-usb-0_1_4_1_0
+E: ID_FOR_SEAT=video4linux-platform-fd500000_pcie-pci-0000_01_00_0-usb-0_1_4_1_0
+E: COLORD_DEVICE=1
+E: COLORD_KIND=camera
+E: DEVLINKS=/dev/v4l/by-id/usb-USB_Camera_USB_Camera_SN0001-video-index1 /dev/v4l/by-path/platform-fd500000.pcie-pci-0000:01:00.0-usb-0:1.4:1.0-video-index1
+E: TAGS=:seat:uaccess:
+
